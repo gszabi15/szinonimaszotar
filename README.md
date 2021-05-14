@@ -1,5 +1,5 @@
 # szinonimaszotar
-szinoníma szótár a szinonimaszotar.hu weboldal használatával
+szinonima szótár a szinonimaszotar.hu weboldal használatával
 
 ```python szinonimaszotar.py```
 
